@@ -25,3 +25,16 @@ git push -u origin usuario2
 
 usuario2
 =======
+
+
+>>>> MERGE EFETUADO (merge-users.txt)
+
+>>>> ADIÇÃO DE TAGS (add-tag.txt)
+
+------------Finalização de atividade---------------
+
+git add .
+
+git commit -m "finalizando atividade1" 
+
+git push -u origin master

@@ -1,0 +1,9 @@
+----------------------Adição de tag----------------------
+
+git tag -a atividade1 -m "Atividade 1 SENAI"
+
+git tag
+
+git tag show atividade1
+
+git push origin --tags

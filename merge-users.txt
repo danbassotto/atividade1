@@ -1,0 +1,23 @@
+git checkout master
+
+git merge usuario1
+
+git merge usuario2
+
+---------CONFLITO APRESENTADO----------
+
+>Exclusão de conflitos
+
+git add alteracoes-linhasdecodigo.txt
+
+git commit -m "resolução de conflitos"
+
+-------Esqueci de excluir uma parte do conflito"
+
+> realizo a exclusão
+
+git add alteracoes-linhasdecodigo.txt
+
+git commit -m "resolução de conflitos (correção)"
+
+git push -u origin master
