@@ -1,4 +1,3 @@
-
 ----------------------- new branch usuario1 --------------------------
 
 git checkout -b usuario1
@@ -10,7 +9,7 @@ git add alteracoes-linhasdecodigo.txt
 git commit -m "alteração usuário1"
 
 git push -u origin usuario1
-=======
+
 ----------------------- new branch usuario2 --------------------------
 
 git checkout -b usuario2
@@ -24,7 +23,7 @@ git commit -m "alteração usuário2"
 git push -u origin usuario2
 
 usuario2
-=======
+
 
 
 >>>> MERGE EFETUADO (merge-users.txt)
