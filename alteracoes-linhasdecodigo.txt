@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ----------------------- new branch usuario1 --------------------------
 
 git checkout -b usuario1
