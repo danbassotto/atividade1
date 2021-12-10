@@ -12,3 +12,14 @@ git commit -m "inclusão de arquivo com códigos utilizados na atividade"
 
 git push -u origin master
 
+----------------------- new branch usuario1 --------------------------
+
+git checkout -b usuario1
+
+> alterar bloco de notas "alteração atividade - usuario1"
+
+git add alteracoes-linhasdecodigo.txt
+
+git commit -m "alteração usuário1"
+
+git push -u origin usuario1
