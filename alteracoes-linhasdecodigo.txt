@@ -1,17 +1,3 @@
-git remote add git@github.com:danbassotto/atividade1.git
-
-git pull origin master
-
------------------------- inclusão de arquivo "alteracoes-linhasdecodigo.txt"----------------------
-
-git status
-
-git add alteracoes-linhasdecodigo.txt
-
-git commit -m "inclusão de arquivo com códigos utilizados na atividade"
-
-git push -u origin master
-
 ----------------------- new branch usuario1 --------------------------
 
 git checkout -b usuario1
