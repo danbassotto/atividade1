@@ -1,14 +1,11 @@
-git remote add git@github.com:danbassotto/atividade1.git
+----------------------- new branch usuario2 --------------------------
 
-git pull origin master
+git checkout -b usuario2
 
------------------------- inclusão de arquivo "alteracoes-linhasdecodigo.txt"----------------------
-
-git status
+> alterar bloco de notas "alteração atividade - usuario2"
 
 git add alteracoes-linhasdecodigo.txt
 
-git commit -m "inclusão de arquivo com códigos utilizados na atividade"
+git commit -m "alteração usuário2"
 
-git push -u origin master
-
+git push -u origin usuario2
